@@ -7,4 +7,4 @@ This is a doge clicker game made with pygame.
 
 
 
-
+Run the .ipynb file or .py file to play it!
